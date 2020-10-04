@@ -13,6 +13,8 @@
 
 [点此查看中文文档](https://zhaoyanbai.com/articles/STUN_RFC8489_zh_CN)
 
+引用请注明出处: `https://zhaoyanbai.com/articles/STUN_RFC8489_zh_CN`
+
 ## 概要
 
 STUN协议是一个服务于其它协议用于处理NAT穿透的工具。它可以被一个端点用于确定NAT分配给它的IP地址和端口。它也可以被用来检查两个端点之间的连接和作为一个保持NAT绑定的的协议。STUN在很多现有的NAT上都能工作，不需要它们有特殊的修改。
