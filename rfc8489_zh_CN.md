@@ -11,9 +11,9 @@
 
 本文尚未完全翻译，同时也有一些翻译错误和不完美的地方，欢迎在 https://github.com/acevest/rfc_zh_CN 处提交RP。
 
-[点此查看中文文档](https://zhaoyanbai.com/articles/STUN_RFC8489_zh_CN)
+[点此查看中文文档](https://zhaoyanbai.com/articles/RFC8489_STUN_zh_CN)
 
-引用请注明出处: `https://zhaoyanbai.com/articles/STUN_RFC8489_zh_CN`
+引用请注明出处: `https://zhaoyanbai.com/articles/RFC8489_STUN_zh_CN`
 
 ## 概要
 
